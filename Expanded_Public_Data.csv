@@ -1,0 +1,102 @@
+Expanded_Public_Data
+EmployeeID,Department,YearsExperience,Salary,JobLevel,JobRole,GenderIdentity,Race,DisabilityStatus
+1,Parks and Rec,7.0,85000.0,3,Analyst,Male,White,No
+2,Public Safety,20.0,85000.0,1,Officer,Female,Hispanic,No
+3,Housing,18.0,60000.0,1,Analyst,Male,Other,Yes
+4,Administration,15.0,75000.0,1,Teacher,Male,Other,Yes
+5,Parks and Rec,5.0,45000.0,2,Coordinator,Male,Asian,No
+6,Education,5.0,50000.0,1,Director,Female,White,No
+7,Parks and Rec,,65000.0,3,Officer,Non-binary,White,No
+8,Housing,15.0,70000.0,1,Manager,Male,Black,No
+9,Administration,3.0,75000.0,3,Teacher,Female,Asian,No
+10,Public Safety,7.0,55000.0,2,Teacher,Male,Black,No
+11,Housing,5.0,75000.0,3,Manager,Male,Black,Yes
+12,Housing,18.0,75000.0,1,Assistant,Female,Black,Yes
+13,Education,10.0,80000.0,2,Teacher,Male,Hispanic,No
+14,Public Works,12.0,70000.0,2,Senior Analyst,Female,Hispanic,No
+15,Administration,12.0,65000.0,1,Coordinator,Female,Black,No
+16,Finance,3.0,60000.0,1,Officer,Female,Asian,No
+17,Housing,12.0,55000.0,3,Manager,Female,White,Yes
+18,Public Works,10.0,80000.0,2,Senior Analyst,Female,Asian,No
+19,Finance,5.0,85000.0,1,Manager,Male,Other,No
+20,Administration,20.0,50000.0,1,Officer,Male,Hispanic,Yes
+21,Health,12.0,50000.0,2,Analyst,Male,White,Yes
+22,Public Works,12.0,55000.0,2,Officer,Male,White,No
+23,Transportation,18.0,55000.0,1,Assistant,Male,Other,Yes
+24,Health,12.0,85000.0,1,Officer,Male,Other,No
+25,Education,5.0,45000.0,1,Officer,Female,Black,Yes
+26,Parks and Rec,3.0,,2,Assistant,Female,Hispanic,No
+27,Public Safety,10.0,55000.0,2,Coordinator,Male,Hispanic,Yes
+28,Transportation,5.0,45000.0,1,Teacher,Female,Asian,No
+29,Education,7.0,55000.0,3,Officer,Male,Black,No
+30,Administration,18.0,65000.0,2,Assistant,Female,Black,No
+31,Education,7.0,65000.0,1,Senior Analyst,Male,Black,No
+32,Parks and Rec,3.0,50000.0,1,Analyst,Non-binary,Black,No
+33,Administration,7.0,60000.0,1,Analyst,Male,Hispanic,Yes
+34,Transportation,20.0,60000.0,3,Officer,Female,Hispanic,No
+35,Parks and Rec,5.0,60000.0,2,Coordinator,Female,Black,No
+36,Finance,12.0,50000.0,2,Coordinator,Non-binary,Asian,No
+37,Public Safety,,60000.0,2,Senior Analyst,Non-binary,White,No
+38,Transportation,7.0,85000.0,2,Officer,Female,White,Yes
+39,Finance,7.0,55000.0,2,Analyst,Male,Asian,Yes
+40,Transportation,3.0,80000.0,1,Coordinator,Female,Black,No
+41,Administration,10.0,55000.0,2,Officer,Female,Hispanic,No
+42,Finance,10.0,55000.0,1,Manager,Female,White,No
+43,Public Safety,12.0,60000.0,1,Coordinator,Female,Other,No
+44,Parks and Rec,5.0,65000.0,1,Assistant,Non-binary,Other,No
+45,Housing,5.0,75000.0,1,Manager,Male,Asian,No
+46,Education,3.0,50000.0,1,Teacher,Female,Black,Yes
+47,Health,5.0,55000.0,1,Coordinator,Male,White,Yes
+48,Public Safety,12.0,60000.0,3,Analyst,Non-binary,Black,Yes
+49,Finance,7.0,70000.0,1,Director,Non-binary,White,Yes
+50,Housing,,,1,Manager,Female,Asian,Yes
+51,Public Safety,5.0,85000.0,2,Teacher,Female,Asian,Yes
+52,Finance,5.0,55000.0,3,Senior Analyst,Female,Other,Yes
+53,Public Works,12.0,50000.0,1,Senior Analyst,Female,Black,Yes
+54,Public Works,15.0,75000.0,2,Analyst,Female,Other,No
+55,Public Safety,3.0,65000.0,2,Coordinator,Male,Black,Yes
+56,Public Works,20.0,85000.0,1,Officer,Female,Other,No
+57,Finance,5.0,50000.0,3,Coordinator,Female,Hispanic,No
+58,Finance,20.0,60000.0,3,Analyst,Female,Hispanic,No
+59,Public Safety,7.0,60000.0,1,Senior Analyst,Female,Hispanic,Yes
+60,Housing,,85000.0,1,Coordinator,Female,Hispanic,No
+61,Parks and Rec,7.0,,3,Senior Analyst,Male,White,No
+62,Transportation,12.0,50000.0,2,Manager,Female,Hispanic,No
+63,Housing,12.0,45000.0,2,Teacher,Female,Asian,No
+64,Administration,10.0,50000.0,2,Officer,Female,Asian,Yes
+65,Finance,7.0,55000.0,2,Manager,Male,White,Yes
+66,Administration,12.0,55000.0,3,Senior Analyst,Female,Hispanic,No
+67,Housing,12.0,55000.0,3,Senior Analyst,Female,Hispanic,No
+68,Transportation,,70000.0,3,Director,Female,Hispanic,No
+69,Transportation,7.0,80000.0,2,Director,Non-binary,Other,No
+70,Health,5.0,,3,Manager,Female,Black,Yes
+71,Transportation,18.0,50000.0,2,Assistant,Male,Other,No
+72,Parks and Rec,10.0,65000.0,2,Manager,Non-binary,Black,Yes
+73,Transportation,20.0,55000.0,1,Director,Female,Hispanic,No
+74,Housing,7.0,50000.0,3,Senior Analyst,Male,Hispanic,No
+75,Health,18.0,50000.0,3,Analyst,Male,Other,No
+76,Housing,15.0,50000.0,2,Manager,Female,Other,Yes
+77,Housing,3.0,70000.0,3,Senior Analyst,Female,Black,Yes
+78,Education,10.0,40000.0,2,Analyst,Male,Asian,No
+79,Health,12.0,65000.0,1,Analyst,Male,Black,Yes
+80,Housing,18.0,60000.0,1,Director,Non-binary,Other,No
+81,Education,7.0,50000.0,1,Manager,Female,Other,Yes
+82,Education,5.0,55000.0,1,Coordinator,Male,White,No
+83,Health,15.0,50000.0,1,Officer,Female,Other,No
+84,Administration,18.0,60000.0,2,Director,Male,White,Yes
+85,Parks and Rec,7.0,,1,Director,Male,Asian,No
+86,Transportation,,,2,Coordinator,Female,Black,Yes
+87,Parks and Rec,20.0,60000.0,1,Officer,Female,Black,Yes
+88,Transportation,7.0,45000.0,2,Senior Analyst,Female,White,No
+89,Housing,10.0,,1,Assistant,Female,Black,No
+90,Finance,18.0,55000.0,1,Manager,Female,Other,No
+91,Health,12.0,,2,Assistant,Male,Hispanic,Yes
+92,Parks and Rec,15.0,75000.0,2,Senior Analyst,Male,White,No
+93,Parks and Rec,5.0,,1,Teacher,Male,Black,No
+94,Housing,10.0,60000.0,3,Director,Non-binary,White,No
+95,Administration,12.0,55000.0,1,Officer,Male,White,No
+96,Education,5.0,65000.0,2,Director,Male,Hispanic,No
+97,Housing,3.0,50000.0,3,Analyst,Male,Other,No
+98,Public Works,20.0,45000.0,2,Director,Female,White,No
+99,Education,10.0,85000.0,2,Director,Female,Black,No
+100,Health,5.0,70000.0,2,Senior Analyst,Female,Asian,No
