@@ -1,0 +1,102 @@
+Public Dataset
+EmployeeID,Department,YearsExperience,Salary,JobLevel,JobRole,GenderIdentity,Race,DisabilityStatus
+1,Health,5,55000,1,Manager,Male,White,No
+2,Education,12,62000,2,Analyst,Female,Black,Yes
+3,Finance,7,48000,1,Officer,Non-binary,Asian,No
+4,Public Safety,3,45000,1,Coordinator,Female,Hispanic,Yes
+5,Administration,10,75000,2,Director,Male,White,No
+6,Transportation,15,90000,3,Supervisor,Non-binary,Black,No
+7,Parks and Rec,20,55000,1,Assistant,Male,Asian,Yes
+8,Housing,8,48000,2,Manager,Female,Hispanic,No
+9,Environmental,13,67000,3,Analyst,Female,Other,Yes
+10,Public Works,18,60000,2,Director,Non-binary,White,No
+11,Health,5,55000,1,Manager,Male,White,No
+12,Education,12,62000,2,Analyst,Female,Black,Yes
+13,Finance,7,48000,1,Officer,Non-binary,Asian,No
+14,Public Safety,3,45000,1,Coordinator,Female,Hispanic,Yes
+15,Administration,10,75000,2,Director,Male,White,No
+16,Transportation,15,90000,3,Supervisor,Non-binary,Black,No
+17,Parks and Rec,20,55000,1,Assistant,Male,Asian,Yes
+18,Housing,8,48000,2,Manager,Female,Hispanic,No
+19,Environmental,13,67000,3,Analyst,Female,Other,Yes
+20,Public Works,18,60000,2,Director,Non-binary,White,No
+21,Health,5,55000,1,Manager,Male,White,No
+22,Education,12,62000,2,Analyst,Female,Black,Yes
+23,Finance,7,48000,1,Officer,Non-binary,Asian,No
+24,Public Safety,3,45000,1,Coordinator,Female,Hispanic,Yes
+25,Administration,10,75000,2,Director,Male,White,No
+26,Transportation,15,90000,3,Supervisor,Non-binary,Black,No
+27,Parks and Rec,20,55000,1,Assistant,Male,Asian,Yes
+28,Housing,8,48000,2,Manager,Female,Hispanic,No
+29,Environmental,13,67000,3,Analyst,Female,Other,Yes
+30,Public Works,18,60000,2,Director,Non-binary,White,No
+31,Health,5,55000,1,Manager,Male,White,No
+32,Education,12,62000,2,Analyst,Female,Black,Yes
+33,Finance,7,48000,1,Officer,Non-binary,Asian,No
+34,Public Safety,3,45000,1,Coordinator,Female,Hispanic,Yes
+35,Administration,10,75000,2,Director,Male,White,No
+36,Transportation,15,90000,3,Supervisor,Non-binary,Black,No
+37,Parks and Rec,20,55000,1,Assistant,Male,Asian,Yes
+38,Housing,8,48000,2,Manager,Female,Hispanic,No
+39,Environmental,13,67000,3,Analyst,Female,Other,Yes
+40,Public Works,18,60000,2,Director,Non-binary,White,No
+41,Health,5,55000,1,Manager,Male,White,No
+42,Education,12,62000,2,Analyst,Female,Black,Yes
+43,Finance,7,48000,1,Officer,Non-binary,Asian,No
+44,Public Safety,3,45000,1,Coordinator,Female,Hispanic,Yes
+45,Administration,10,75000,2,Director,Male,White,No
+46,Transportation,15,90000,3,Supervisor,Non-binary,Black,No
+47,Parks and Rec,20,55000,1,Assistant,Male,Asian,Yes
+48,Housing,8,48000,2,Manager,Female,Hispanic,No
+49,Environmental,13,67000,3,Analyst,Female,Other,Yes
+50,Public Works,18,60000,2,Director,Non-binary,White,No
+51,Health,5,55000,1,Manager,Male,White,No
+52,Education,12,62000,2,Analyst,Female,Black,Yes
+53,Finance,7,48000,1,Officer,Non-binary,Asian,No
+54,Public Safety,3,45000,1,Coordinator,Female,Hispanic,Yes
+55,Administration,10,75000,2,Director,Male,White,No
+56,Transportation,15,90000,3,Supervisor,Non-binary,Black,No
+57,Parks and Rec,20,55000,1,Assistant,Male,Asian,Yes
+58,Housing,8,48000,2,Manager,Female,Hispanic,No
+59,Environmental,13,67000,3,Analyst,Female,Other,Yes
+60,Public Works,18,60000,2,Director,Non-binary,White,No
+61,Health,5,55000,1,Manager,Male,White,No
+62,Education,12,62000,2,Analyst,Female,Black,Yes
+63,Finance,7,48000,1,Officer,Non-binary,Asian,No
+64,Public Safety,3,45000,1,Coordinator,Female,Hispanic,Yes
+65,Administration,10,75000,2,Director,Male,White,No
+66,Transportation,15,90000,3,Supervisor,Non-binary,Black,No
+67,Parks and Rec,20,55000,1,Assistant,Male,Asian,Yes
+68,Housing,8,48000,2,Manager,Female,Hispanic,No
+69,Environmental,13,67000,3,Analyst,Female,Other,Yes
+70,Public Works,18,60000,2,Director,Non-binary,White,No
+71,Health,5,55000,1,Manager,Male,White,No
+72,Education,12,62000,2,Analyst,Female,Black,Yes
+73,Finance,7,48000,1,Officer,Non-binary,Asian,No
+74,Public Safety,3,45000,1,Coordinator,Female,Hispanic,Yes
+75,Administration,10,75000,2,Director,Male,White,No
+76,Transportation,15,90000,3,Supervisor,Non-binary,Black,No
+77,Parks and Rec,20,55000,1,Assistant,Male,Asian,Yes
+78,Housing,8,48000,2,Manager,Female,Hispanic,No
+79,Environmental,13,67000,3,Analyst,Female,Other,Yes
+80,Public Works,18,60000,2,Director,Non-binary,White,No
+81,Health,5,55000,1,Manager,Male,White,No
+82,Education,12,62000,2,Analyst,Female,Black,Yes
+83,Finance,7,48000,1,Officer,Non-binary,Asian,No
+84,Public Safety,3,45000,1,Coordinator,Female,Hispanic,Yes
+85,Administration,10,75000,2,Director,Male,White,No
+86,Transportation,15,90000,3,Supervisor,Non-binary,Black,No
+87,Parks and Rec,20,55000,1,Assistant,Male,Asian,Yes
+88,Housing,8,48000,2,Manager,Female,Hispanic,No
+89,Environmental,13,67000,3,Analyst,Female,Other,Yes
+90,Public Works,18,60000,2,Director,Non-binary,White,No
+91,Health,5,55000,1,Manager,Male,White,No
+92,Education,12,62000,2,Analyst,Female,Black,Yes
+93,Finance,7,48000,1,Officer,Non-binary,Asian,No
+94,Public Safety,3,45000,1,Coordinator,Female,Hispanic,Yes
+95,Administration,10,75000,2,Director,Male,White,No
+96,Transportation,15,90000,3,Supervisor,Non-binary,Black,No
+97,Parks and Rec,20,55000,1,Assistant,Male,Asian,Yes
+98,Housing,8,48000,2,Manager,Female,Hispanic,No
+99,Environmental,13,67000,3,Analyst,Female,Other,Yes
+100,Public Works,18,60000,2,Director,Non-binary,White,No
