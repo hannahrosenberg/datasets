@@ -1,0 +1,101 @@
+EmployeeID,Department,YearsExperience,Salary,JobLevel,JobRole,Race,DisabilityStatus
+1,Parks and Rec,14.91,59928.04,2,Senior Coordinator,White,No
+2,Public Safety,16.22,80750.22,3,Senior Analyst,Hispanic,No
+3,Housing,2.42,43646.46,1,Assistant,Other,Yes
+4,Administration,7.32,64243.84,2,Manager,Other,Yes
+5,Parks and Rec,18.3,78014.17,3,Senior Manager,Asian,No
+6,Education,14.43,70988.32,2,Analyst,White,No
+7,Parks and Rec,11.5,68893.93,2,Analyst,White,No
+8,Housing,11.08,60442.9,2,Analyst,Black,No
+9,Administration,10.13,66804.61,2,Senior Coordinator,Asian,No
+10,Public Safety,25.25,76923.83,3,Senior Analyst,Black,No
+11,Housing,7.31,55997.53,2,Analyst,Black,Yes
+12,Housing,2.15,42426.68,1,Junior Analyst,Black,Yes
+13,Education,6.77,56831.64,2,Manager,Hispanic,No
+14,Public Works,7.2,73346.27,2,Senior Coordinator,Hispanic,No
+15,Administration,6.86,57736.37,2,Manager,Black,No
+16,Finance,16.14,92407.22,3,Senior Manager,Asian,No
+17,Housing,2.19,44959.56,1,Coordinator,White,Yes
+18,Public Works,12.8,74004.75,2,Analyst,Asian,No
+19,Finance,27.77,83496.87,3,Senior Analyst,Other,No
+20,Administration,8.5,57528.11,2,Senior Coordinator,Hispanic,Yes
+21,Health,1.93,48647.2,1,Junior Analyst,White,Yes
+22,Public Works,5.58,58702.66,2,Manager,White,No
+23,Transportation,14.69,59254.22,2,Analyst,Other,Yes
+24,Health,22.43,93119.17,3,Director,Other,No
+25,Education,1.17,45889.72,1,Coordinator,Black,Yes
+26,Parks and Rec,22.21,76633.91,3,Senior Analyst,Hispanic,No
+27,Public Safety,13.84,65213.03,2,Senior Coordinator,Hispanic,Yes
+28,Transportation,14.28,69644.5,2,Analyst,Asian,No
+29,Education,23.89,82882.26,3,Senior Analyst,Black,No
+30,Administration,27.37,88487.28,3,Director,Black,No
+31,Education,20.22,94768.08,3,Senior Analyst,Black,No
+32,Parks and Rec,25.17,82968.81,3,Senior Analyst,Black,No
+33,Administration,1.07,38901.7,1,Assistant,Hispanic,Yes
+34,Transportation,23.49,90647.28,3,Senior Analyst,Hispanic,No
+35,Parks and Rec,19.01,97149.44,3,Senior Analyst,Black,No
+36,Finance,28.18,90396.58,3,Senior Manager,Asian,No
+37,Public Safety,14.95,71131.22,2,Manager,White,No
+38,Transportation,4.95,36420.98,1,Coordinator,White,Yes
+39,Finance,2.71,39540.56,1,Coordinator,Asian,Yes
+40,Transportation,26.96,80823.99,3,Senior Manager,Black,No
+41,Administration,6.74,68175.67,2,Analyst,Hispanic,No
+42,Finance,24.88,75610.02,3,Senior Manager,White,No
+43,Public Safety,8.96,68845.53,2,Senior Coordinator,Other,No
+44,Parks and Rec,12.58,71983.91,2,Analyst,Other,No
+45,Housing,11.96,59993.36,2,Senior Coordinator,Asian,No
+46,Education,6.54,58309.65,2,Analyst,Black,Yes
+47,Health,13.16,53481.77,2,Senior Coordinator,White,Yes
+48,Public Safety,2.54,44033.55,1,Assistant,Black,Yes
+49,Finance,3.72,36694.25,1,Coordinator,White,Yes
+50,Housing,7.24,67278.02,2,Senior Coordinator,Asian,Yes
+51,Public Safety,1.87,42700.94,1,Junior Analyst,Asian,Yes
+52,Finance,7.24,66493.07,2,Senior Coordinator,Other,Yes
+53,Public Works,4.8,44057.38,1,Junior Analyst,Black,Yes
+54,Public Works,27.76,96752.47,3,Senior Analyst,Other,No
+55,Public Safety,4.15,40512.29,1,Junior Analyst,Black,Yes
+56,Public Works,10.37,55788.54,2,Manager,Other,No
+57,Finance,10.93,69111.5,2,Manager,Hispanic,No
+58,Finance,10.8,73504.97,2,Manager,Hispanic,No
+59,Public Safety,1.36,46407.31,1,Coordinator,Hispanic,Yes
+60,Housing,28.01,75531.74,3,Director,Hispanic,No
+61,Parks and Rec,25.63,96867.54,3,Director,White,No
+62,Transportation,27.56,88223.43,3,Senior Manager,Hispanic,No
+63,Housing,25.46,98476.69,3,Director,Asian,No
+64,Administration,2.67,37439.07,1,Assistant,Asian,Yes
+65,Finance,5.91,52750.36,2,Senior Coordinator,White,Yes
+66,Administration,25.2,94969.58,3,Senior Manager,Hispanic,No
+67,Housing,24.28,99948.35,3,Senior Manager,Hispanic,No
+68,Transportation,13.77,66358.9,2,Analyst,Hispanic,No
+69,Transportation,7.66,73309.77,2,Analyst,Other,No
+70,Health,4.52,37014.36,1,Junior Analyst,Black,Yes
+71,Transportation,6.3,55678.92,2,Manager,Other,No
+72,Parks and Rec,4.78,45830.55,1,Junior Analyst,Black,Yes
+73,Transportation,13.89,68948.41,2,Manager,Hispanic,No
+74,Housing,26.29,83767.8,3,Senior Analyst,Hispanic,No
+75,Health,17.38,94179.71,3,Senior Manager,Other,No
+76,Housing,14.56,54852.28,2,Senior Coordinator,Other,Yes
+77,Housing,2.87,42689.13,1,Junior Analyst,Black,Yes
+78,Education,13.62,73487.92,2,Analyst,Asian,No
+79,Health,3.45,45293.44,1,Coordinator,Black,Yes
+80,Housing,28.21,85048.27,3,Director,Other,No
+81,Education,13.1,66979.04,2,Analyst,Other,Yes
+82,Education,28.08,86996.89,3,Senior Manager,White,No
+83,Health,11.55,73885.33,2,Analyst,Other,No
+84,Administration,10.51,58035.85,2,Senior Coordinator,White,Yes
+85,Parks and Rec,15.44,90687.64,3,Senior Analyst,Asian,No
+86,Transportation,1.67,41870.17,1,Junior Analyst,Black,Yes
+87,Parks and Rec,5.87,65016.77,2,Analyst,Black,Yes
+88,Transportation,27.39,96841.93,3,Director,White,No
+89,Housing,9.08,71890.99,2,Senior Coordinator,Black,No
+90,Finance,16.93,99602.09,3,Senior Manager,Other,No
+91,Health,8.73,55243.81,2,Analyst,Hispanic,Yes
+92,Parks and Rec,20.03,94206.84,3,Senior Analyst,White,No
+93,Parks and Rec,26.15,85444.17,3,Senior Analyst,Black,No
+94,Housing,17.41,85533.93,3,Senior Manager,White,No
+95,Administration,27.27,93439.56,3,Senior Analyst,White,No
+96,Education,27.48,80969.43,3,Director,Hispanic,No
+97,Housing,7.6,71578.31,2,Senior Coordinator,Other,No
+98,Public Works,12.23,55740.15,2,Analyst,White,No
+99,Education,9.96,66925.4,2,Analyst,Black,No
+100,Health,22.61,77761.85,3,Senior Analyst,Asian,No
